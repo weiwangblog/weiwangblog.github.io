@@ -3,47 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://weiwangblog.github.io/categories/</loc>
-    <lastmod>2020-04-21T21:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weiwangblog.github.io/tags/devlops/</loc>
-    <lastmod>2020-04-21T21:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weiwangblog.github.io/posts/graylog/</loc>
-    <lastmod>2020-04-21T21:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://weiwangblog.github.io/</loc>
-    <lastmod>2020-04-21T21:00:00-05:00</lastmod>
+    <lastmod>2020-04-22T22:02:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://weiwangblog.github.io/posts/</loc>
-    <lastmod>2020-04-21T21:00:00-05:00</lastmod>
+    <lastmod>2020-04-22T22:02:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://weiwangblog.github.io/tags/</loc>
-    <lastmod>2020-04-21T21:00:00-05:00</lastmod>
+    <loc>https://weiwangblog.github.io/posts/resume_bloging/</loc>
+    <lastmod>2020-04-22T22:02:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://weiwangblog.github.io/categories/tech/</loc>
-    <lastmod>2020-04-21T21:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weiwangblog.github.io/posts/about/</loc>
-    <lastmod>2020-04-20T03:08:00-05:00</lastmod>
+    <loc>https://weiwangblog.github.io/categories/</loc>
+    <lastmod>2016-12-12T21:31:00-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://weiwangblog.github.io/tags/reading/</loc>
+    <lastmod>2016-12-12T21:31:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weiwangblog.github.io/tags/</loc>
     <lastmod>2016-12-12T21:31:00-06:00</lastmod>
   </url>
   
@@ -370,6 +355,11 @@
   <url>
     <loc>https://weiwangblog.github.io/posts/dandan_wants_daddy/</loc>
     <lastmod>2006-05-31T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weiwangblog.github.io/posts/about/</loc>
+    <lastmod>2004-01-18T03:08:00-06:00</lastmod>
   </url>
   
   <url>
