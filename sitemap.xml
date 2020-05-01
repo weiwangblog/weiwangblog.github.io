@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://weiwangblog.github.io/categories/</loc>
+    <lastmod>2020-04-30T23:57:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://weiwangblog.github.io/posts/dr-dot-ioannidis-on-results-of-coronacirus-studies/</loc>
     <lastmod>2020-04-30T23:57:00-05:00</lastmod>
   </url>
@@ -18,13 +23,23 @@
   </url>
   
   <url>
-    <loc>https://weiwangblog.github.io/posts/resume_bloging/</loc>
-    <lastmod>2020-04-22T22:02:00-05:00</lastmod>
+    <loc>https://weiwangblog.github.io/tags/reading/</loc>
+    <lastmod>2020-04-30T23:57:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://weiwangblog.github.io/categories/</loc>
-    <lastmod>2020-01-01T00:00:00-06:00</lastmod>
+    <loc>https://weiwangblog.github.io/tags/</loc>
+    <lastmod>2020-04-30T23:57:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weiwangblog.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2020-04-30T23:57:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weiwangblog.github.io/posts/resume_bloging/</loc>
+    <lastmod>2020-04-22T22:02:00-05:00</lastmod>
   </url>
   
   <url>
@@ -43,22 +58,7 @@
   </url>
   
   <url>
-    <loc>https://weiwangblog.github.io/tags/reading/</loc>
-    <lastmod>2016-12-12T21:31:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weiwangblog.github.io/tags/</loc>
-    <lastmod>2016-12-12T21:31:00-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://weiwangblog.github.io/posts/autoimmune/</loc>
-    <lastmod>2016-12-12T21:31:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weiwangblog.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2016-12-12T21:31:00-06:00</lastmod>
   </url>
   
