@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Wei Wang&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2020 23:57:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2020 23:22:00 -0500</lastBuildDate>
     
 	<atom:link href="https://weiwangblog.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>煮人食谱</title>
+      <link>https://weiwangblog.github.io/categories/%E7%85%AE%E4%BA%BA%E9%A3%9F%E8%B0%B1/</link>
+      <pubDate>Sun, 03 May 2020 23:22:00 -0500</pubDate>
+      
+      <guid>https://weiwangblog.github.io/categories/%E7%85%AE%E4%BA%BA%E9%A3%9F%E8%B0%B1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>读书笔记</title>
@@ -17,15 +26,6 @@
       <pubDate>Thu, 30 Apr 2020 23:57:00 -0500</pubDate>
       
       <guid>https://weiwangblog.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>煮人食谱</title>
-      <link>https://weiwangblog.github.io/categories/%E7%85%AE%E4%BA%BA%E9%A3%9F%E8%B0%B1/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
-      
-      <guid>https://weiwangblog.github.io/categories/%E7%85%AE%E4%BA%BA%E9%A3%9F%E8%B0%B1/</guid>
       <description></description>
     </item>
     
