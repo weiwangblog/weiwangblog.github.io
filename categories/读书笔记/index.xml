@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>读书笔记 on Wei Wang&#39;s Space</title>
@@ -6,10 +6,23 @@
     <description>Recent content in 读书笔记 on Wei Wang&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2020 23:57:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Aug 2021 17:41:00 -0500</lastBuildDate>
     
 	<atom:link href="https://weiwangblog.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>新冠疫苗是基因疗法的可能性？100%</title>
+      <link>https://weiwangblog.github.io/posts/covid10-vaccine-and-gene-therapy/</link>
+      <pubDate>Sun, 01 Aug 2021 17:41:00 -0500</pubDate>
+      
+      <guid>https://weiwangblog.github.io/posts/covid10-vaccine-and-gene-therapy/</guid>
+      <description>原文 https://informedchoicewa.org/news/chance-that-covid-19-vaccines-are-gene-therapy-100/
+作者是氘（重氢，氢的同位素）专家 Petra Davelaar, ND, CNS, IFMCP
+摘要  生物学的核心准则 DNA→RNA→蛋白质不再成立了。  “2021 年 6 月 11 日，美国科学促进会（AAAS）的开放存取期刊之一《科学进展》发表了一篇具有里程碑意义的论文¹，挑战了生物学的核心教条，即 DNA 被转录成 RNA，然后 RNA 被翻译成蛋白质，这是不可逆转的认识。事实证明，在人类已被确认的 14 种人类 DNA 聚合酶中，有一种叫做聚合酶 Theta（Polθ）的酶被称为易出错的杂交酶，当有稳定的 mRNA 模板时，它比 HIV 逆转录酶更有效地将 mRNA 序列或片段转换为 DNA。这一过程受到所谓的底物水平调节，也就是说，只有在有稳定的 mRNA 可用时，即反应的底物，这一反应才会发生。”
+“在正常的生理条件下，mRNA 在细胞、组织和/或血液循环中翻译后几秒钟到几分钟就会分解。这一直是 RNA 疫苗研究中的一个长期的技术难题。RNA 的快速和自发分解的发生是为了通过防止任何聚合酶的逆转录酶作用，特别是 theta 异构体的逆转录酶作用来保持身体的遗传完整性。迅速降解和/或修改 RNA 分子的其他机制包括核酸酶，参与裂解核苷酸之间的磷酸二酯键²。”
+ 逃避检测和快速分解 mRNA  为了防止 mRNA 的这种快速分解，疫苗开发人员替换了构成 RNA 字母表 (ACGU) 的四个字母之一。他们用代表假尿嘧啶的 Y 取代了代表尿嘧啶的 U，这使得它能够逃避可以检测核苷修饰的信使 RNA (modRNA)³ 的受体并摧毁它⁴。遗传学家⁵ 理所当然地对这种实验疗法感到震惊，因为身体以前从未遇到过由假尿苷酸制成的完整 RNA 序列。身体知道假尿嘧啶的片段，但 BioNTech/辉瑞疫苗包含一个长度为 4,284 个字符的序列。 RNA 核酸酶不识别这些合成结构，修饰的 mRNA 序列将持续存在。据报道，单剂 Moderna 疫苗含有 40 万亿个 mRNA 分子。</description>
+    </item>
     
     <item>
       <title>Dr. Ioannidis on Results of Covid-19 Studies</title>
@@ -54,8 +67,7 @@ We realize that the number of infected people is somewhere between 50 and 85 tim
 当我们说一个人Covid-19“检测呈阳性”是什么意思?
 我们实际上并不是说他们已经被发现“被感染”了病毒。
 我们被科技劫持了，却不知道它们到底意味着什么。在这种情况下，我很少了解、花时间并采访了目前可用的Covid-19检测方法的发明者，即聚合酶链反应(PCR)。
-他的名字叫Kary B. Mullis，他是我见过的最热情、最有趣、最不拘谨的人之一，他还坚定地批评艾滋病“科学”，不太可能获得诺贝尔奖，也就是“天才”。
-  1994年的一天，当我打电话给谈论PCR被当成&amp;quot;证明&amp;quot;HIV病毒导致艾滋病度的武器的时候，他竟然哭了。</description>
+他的名字叫Kary B. Mullis，他是我见过的最热情、最有趣、最不拘谨的人之一，他还坚定地批评艾滋病“科学”，不太可能获得诺贝尔奖，也就是“天才”。</description>
     </item>
     
     <item>
@@ -70,7 +82,7 @@ We realize that the number of infected people is somewhere between 50 and 85 tim
 这家公司从未生产过疫苗，也从未做过药物。
 就是这样一个背景的公司，当前如火如荼的进行的新冠疫苗的开发，并从短短的三月到现在，将疫苗研发一期做到了三期（一般需要5-6年）. 他们的 二期实验用了45个人。高剂量组100%有全身副作用。低剂量组80%有副作用。长期副作用？未知, 因为需要5-6年才知道嘛。
 有意思的是他们使用的接种技术，那是及其先进，不比当下马斯克的脑机对联差：
- 疫苗可以像一个创可贴一样邮寄给你。你自己贴手上，疫苗便接种好了。 在这个创可贴里，它有微小的针体，里面有几种开创人类历史的高科技：  转基因疫苗 这是经过修改的RNA，包含病毒的部分编码。接种后身体将会对这些编码转录复制，制造出更多的病毒，使得身体习惯看到它， 并让免疫系统知道怎样应对它。没有意外的话，当你真正接触到新冠病毒，身体已经知道怎样抵抗了&amp;ndash;理论上。 问题是他们使用的技术是Transfection,是一种转基因技术。这是史无前例的。也就是说，你有可能从此被转基因了。 对你和后代的影响怎样？鬼才知道，除了你自己也没人关心吧，当然可能你自己也不关心。 哦，对了，这些病毒编码也许有专利的，也就是说你的身体的一部分现在是收专利权保护的属于专利所有人的了。 荧光素酶(Luciferase enzyme) 为啥要用这个？因为某团体需要知道谁打了疫苗，谁没有打。他们不相信医疗记录。这个东西就像一个条形码随着疫苗植入你的体内。 从此你像一个产品。手机上将会有一个app，用它可以读取你的密码接种条形码。 水凝胶（hydrogel) 这就是科幻小说级别的了，也就是可以和马斯克的脑机技术有一拼的技术。五角大楼是这个技术的发明者，是一种纳米技术， 可以按照预先设计的指令分解再重组成可以执行各种神奇功能的纳米机器人。可以用来采取你的各种身体数据，甚至读取你的脑电波。    </description>
+ 疫苗可以像一个创可贴一样邮寄给你。你自己贴手上，疫苗便接种好了。 在这个创可贴里，它有微小的针体，里面有几种开创人类历史的高科技：  转基因疫苗 这是经过修改的RNA，包含病毒的部分编码。接种后身体将会对这些编码转录复制，制造出更多的病毒，使得身体习惯看到它， 并让免疫系统知道怎样应对它。没有意外的话，当你真正接触到新冠病毒，身体已经知道怎样抵抗了&amp;ndash;理论上。 问题是他们使用的技术是Transfection,是一种转基因技术。这是史无前例的。也就是说，你有可能从此被转基因了。 对你和后代的影响怎样？鬼才知道，除了你自己也没人关心吧，当然可能你自己也不关心。 哦，对了，这些病毒编码也许有专利的，也就是说你的身体的一部分现在是收专利权保护的属于专利所有人的了。 荧光素酶(Luciferase enzyme) 为啥要用这个？因为某团体需要知道谁打了疫苗，谁没有打。他们不相信医疗记录。这个东西就像一个条形码随着疫苗植入你的体内。 从此你像一个产品。手机上将会有一个app，用它可以读取你的密码接种条形码。 水凝胶（hydrogel) 这就是科幻小说级别的了，也就是可以和马斯克的脑机技术有一拼的技术。五角大楼是这个技术的发明者，是一种纳米技术， 可以按照预先设计的指令分解再重组成可以执行各种神奇功能的纳米机器人。可以用来采取你的各种身体数据，甚至读取你的脑电波。   </description>
     </item>
     
   </channel>

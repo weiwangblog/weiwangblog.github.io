@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Wei Wang&#39;s Space</title>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>music</title>
+      <title>Music</title>
       <link>https://weiwangblog.github.io/tags/music/</link>
       <pubDate>Sun, 15 Oct 2006 23:06:00 -0500</pubDate>
       
@@ -66,7 +66,7 @@
     </item>
     
     <item>
-      <title>boys</title>
+      <title>Boys</title>
       <link>https://weiwangblog.github.io/tags/boys/</link>
       <pubDate>Fri, 25 Aug 2006 23:04:00 -0500</pubDate>
       
